@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Teams Integration"
+title: s"Microsoft Teams Integration"
 path: "/programs/microsoft-teams.html"
 id: "programs/microsoft-teams"
 ---
